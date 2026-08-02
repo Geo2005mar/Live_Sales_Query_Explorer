@@ -1,0 +1,6 @@
+faker
+mysql-connector-python
+streamlit
+streamlit-autorefresh
+pandas
+python-dotenv
